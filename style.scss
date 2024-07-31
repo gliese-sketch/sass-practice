@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: wheat;
+}
+
+
+button {
+    padding: 10px 20px;
+
+    &:hover {
+        transform: scale(1.2);
+    }
+}

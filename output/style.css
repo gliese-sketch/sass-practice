@@ -1,0 +1,13 @@
+body {
+  background: black;
+  color: wheat;
+}
+
+button {
+  padding: 10px 20px;
+}
+button:hover {
+  transform: scale(1.2);
+}
+
+/*# sourceMappingURL=style.css.map */
